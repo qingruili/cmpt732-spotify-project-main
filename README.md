@@ -36,3 +36,8 @@ All the related code in this [directory](sentiment_analysis_code) is to run the 
 
 We also have a [PowerBI dashboard](<BI dashboard/Visualization.pbix>) to show what we found based on our cleaned data.
 You can download the file and upload it to your [SFU PowerBI workspace](https://app.powerbi.com/groups/me/list?experience=power-bi&clientSideAuth=0) to view and interact with it.
+
+## Video:
+
+We create one [video](https://www.youtube.com/watch?v=LejNuE8geKo&ab_channel=Tian) to explain details about what we do in this project. 
+
